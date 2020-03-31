@@ -36,4 +36,4 @@ func main() {
 }
 ```
 
-Based on [Go CPF](https://github.com/cuducos/go-cpf) and [Go CPNJ](https://github.com/cuducos/go-cnpj) ❤️
+Based on [Go CPF](https://github.com/cuducos/go-cpf) and [Go CNPJ](https://github.com/cuducos/go-cnpj) ❤️
