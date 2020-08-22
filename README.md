@@ -1,6 +1,6 @@
 # Go CNPF [![Tests](https://github.com/cuducos/go-cnpf/workflows/Tests/badge.svg)]() [![GoDoc](https://godoc.org/github.com/cuducos/go-cnpf?status.svg)](https://godoc.org/github.com/cuducos/go-cnpf) ![Go version](https://img.shields.io/github/go-mod/go-version/cuducos/go-cnpj)
 
-A Go module to validate CPF and CNPJ numbers (Brazilian people andcompanies unique identifier for the Federal Revenue).
+A Go module to validate CPF and CNPJ numbers (Brazilian people and companies unique identifier for the Federal Revenue).
 
 > The pseudo-acronym _CNPF_ is a sort of tong-twister and a common typo when developers discuss the implementation of objects that could hold either a CPF or a CNPJ numbers.
 
